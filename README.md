@@ -28,7 +28,6 @@ A typed Python package that profiles a dataset, suggests how to clean it with re
 
 Python · pandas · NumPy · scikit-learn · TensorFlow/Keras · matplotlib · seaborn · Plotly · Qlik Sense · Jupyter · pytest · Git & GitHub Actions · AWS (CDK, S3, CloudFront, Lambda, IAM, SNS)
 
-
 ## Find me
 
 [LinkedIn](https://www.linkedin.com/in/rolando-rodriguez-jr-mshci)
