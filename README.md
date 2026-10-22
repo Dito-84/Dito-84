@@ -2,6 +2,8 @@
 
 I work with healthcare and operational data: cleaning it, analyzing it, and turning it into dashboards and models people can actually use. I care about getting the measures right, and about keeping sensitive data where it belongs.
 
+Currently preparing for the AWS Certified Solutions Architect – Associate exam and building toward cloud architecture roles, with a focus on data and healthcare workloads.
+
 ## Featured projects
 
 **[Hip & Knee Replacement Outcomes Dashboard](https://github.com/Dito-84/hip-knee-replacement-outcomes-dashboard)** · [live dashboard](https://dito-84.github.io/hip-knee-replacement-outcomes-dashboard/)
