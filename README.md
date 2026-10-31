@@ -18,11 +18,11 @@ Four models and a no-skill baseline compared with 5-fold cross-validation (gradi
 
 `scikit-learn` `TensorFlow/Keras` `pandas` `seaborn`
 
-**dstoolkit** *(coming soon)*
+**[dstoolkit](https://github.com/Dito-84/dstoolkit)** · [try it in your browser](https://dito-84.github.io/dstoolkit/)
 
-A typed Python package that profiles a dataset, suggests how to clean it with ready-to-run code, and cleans and explores it. It also runs as a drag-and-drop page in the browser, where the file never leaves your computer.
+A typed Python package that profiles a dataset and suggests how to clean it with ready-to-run code, then cleans, validates and explores it, including which columns are related, with tests corrected for multiple comparisons. For modelling, scikit-learn transformers learn the cleaning steps on training data only, so cross-validation doesn't leak. It also runs as a drag-and-drop page in the browser, where a security policy makes sure the file never leaves your computer.
 
-`pandas` `matplotlib` `Pyodide` `mypy`
+`Python` `pandas` `scikit-learn` `SciPy` `Pyodide` `pytest` `mypy` `GitHub Actions`
 
 ## Tools I use
 
